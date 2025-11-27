@@ -178,6 +178,9 @@ body {
   .companions-grid {
     @apply flex flex-wrap gap-4 w-full max-md:justify-center justify-between;
   }
+  .rounded-border {
+    @apply rounded-4xl border border-black;
+  }
 }
 
 @layer utilities {
