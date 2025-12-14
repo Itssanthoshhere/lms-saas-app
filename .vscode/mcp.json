@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "Sentry": {
+      "url": "https://mcp.sentry.dev/mcp/bennett-university-uh/cws_converso",
+      "type": "http"
+    }
+  }
+}
